@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=9527DHX&show_icons=true"/>
 
-the user of 9527DHX or DHX9527 you search on major platforms should be me.
+the user of 9527DHX or DHX9527 you search on major platforms should be me.  
 I'm a 17-year-old senior 3 student, living in Guangdong Province, China.
 
 ### 🧰Tools

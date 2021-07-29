@@ -5,6 +5,11 @@
 The user of 9527DHX or DHX9527 you search on major platforms should be me.  
 A 17-year-old senior 3 student, living in Guangdong Province, China.
 
+## 💭Lately
+
+* Research front end design.
+* Create a New Minecraft Community.
+
 ## 💬Languages
 
 ![](https://img.shields.io/badge/HTML/CSS-Learning-0066B8?style=flat-square&logo=HTML5&logoColor=ffffff) ![](https://img.shields.io/badge/PHP-Learning-0066B8?style=flat-square&logo=PHP&logoColor=ffffff) ![](https://img.shields.io/badge/C++-Learning-0066B8?style=flat-square&logo=Cplusplus&logoColor=ffffff) ![](https://img.shields.io/badge/Python-Learning-0066B8?style=flat-square&logo=Python&logoColor=ffffff)

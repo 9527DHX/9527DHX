@@ -3,7 +3,7 @@
 9527DHX or DHX9527 is my full platform ID. the user of this ID you search on major platforms should be me.
 I'm a 17-year-old senior 3 student, living in Guangdong Province, China.
 I am currently tossing about some website applications, such as CMS.
-Studying HTML / CSS......
+Studying HTML / CSS...... 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=9527DHX&show_icons=true)
 
@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+

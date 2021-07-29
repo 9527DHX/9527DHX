@@ -11,7 +11,7 @@ A 17-year-old senior 3 student, living in Guangdong Province, China.
 
 ## ✒️Tools
 
-[![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/) [![](https://img.shields.io/badge/Xiaomi-8UD-FF6A00?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://mi.com/) [![](https://img.shields.io/badge/VisualStudio-Code-0066B8?style=flat-square&logo=VisualStudio&logoColor=ffffff)](https://code.visualstudio.com/) [![](https://img.shields.io/badge/Edge-Surf-0066B8?style=flat-square&logo=MicrosoftEdge&logoColor=ffffff)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/) [![](https://img.shields.io/badge/Xiaomi-8UD-FF6A00?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://mi.com/) [![](https://img.shields.io/badge/VisualStudio-Code-0066B8?style=flat-square&logo=VisualStudio&logoColor=ffffff)](https://code.visualstudio.com/) [![](https://img.shields.io/badge/Edge-Surf-0066B8?style=flat-square&logo=MicrosoftEdge&logoColor=ffffff)](https://www.microsoft.com/zh-cn/edge/)
 
 ## 🔗Links
 
@@ -33,6 +33,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   -->
-
 
 

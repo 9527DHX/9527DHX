@@ -1,11 +1,18 @@
-### This is 9527DHX 👋
+## This is 9527DHX 👋
 
 9527DHX or DHX9527 is my full platform ID. the user of this ID you search on major platforms should be me.  
 I'm a 17-year-old senior 3 student, living in Guangdong Province, China.  
 I am currently tossing about some website applications, such as CMS.  
 Studying HTML / CSS......  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=9527DHX&show_icons=true)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=9527DHX&show_icons=true/>
+
+### Links
+
+* Blog: [9527DHX's Blog](https://9527dhx.top/)
+* Email: [DHX9527#qq.com](mailto:DHX9527@qq.com)
+
+
 
 
 

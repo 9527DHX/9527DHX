@@ -5,11 +5,6 @@
 The user of 9527DHX or DHX9527 you search on major platforms should be me.  
 A 17-year-old senior 3 student, living in Guangdong Province, China.
 
-## 💭Lately
-
-* Research front end design.
-* Create a New Minecraft Community.
-
 ## 🔗Links
 
 * Blog: [9527DHX's Blog](https://9527dhx.top/)

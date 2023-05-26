@@ -3,7 +3,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=9527DHX&show_icons=true"/>
 
 The user of 9527DHX or DHX9527 you search on major platforms should be me.  
-A 18-year-old student, living in Guangdong Province, China.
+A 18-year-old student, living in China.
 
 ## 🔗Links
 

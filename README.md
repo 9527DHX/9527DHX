@@ -8,7 +8,6 @@ A 18-year-old student, living in China.
 ## 🔗Links
 
 * Blog: [9527DHX's Blog](https://9527dhx.top/)
-* Weibo: [@9527DHX](https://weibo.com/u/5538820526/)
 * Email: [DHX9527#qq.com](mailto:DHX9527@qq.com)
 
 <!--
